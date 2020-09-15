@@ -1,0 +1,20 @@
+#menuBack {
+    width: 100%;
+    background-color: black;
+}
+
+.optMenu {
+    color: white !important;
+    padding-left: 23px;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.optMenu:hover {
+    background-color: rgb(56, 134, 89);
+}
+
+.menuIcon {
+    color: white !important;
+}

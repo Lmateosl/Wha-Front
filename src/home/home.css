@@ -1,0 +1,27 @@
+#homeBack {
+    width: 100%;
+}
+
+#qrCode {
+    margin-top: 40px;
+    width: 70%;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(56, 134, 89);
+    -webkit-box-shadow: 2px 2px 10px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 2px 10px 0px rgba(0,0,0,0.75);
+    box-shadow: 2px 2px 10px 0px rgba(0,0,0,0.75);
+}
+
+#head {
+    padding: 10px 60px;
+    height: 60px;
+    width: 100%;
+    margin-bottom: 40px;
+    background-color: rgb(56, 134, 89);
+    -webkit-box-shadow: 2px 2px 10px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 2px 10px 0px rgba(0,0,0,0.75);
+    box-shadow: 2px 2px 10px 0px rgba(0,0,0,0.75);
+}
